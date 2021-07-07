@@ -7,6 +7,7 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
 ## Indice
 - [Introduccion](#Introduccion)
 - [Creando nuestro repositorio](#Creando-nuestro-repositorio)
+  - [Nota](#nota)
 
 <div id="Introduccion">
   <h1>Introduccion</h1>
@@ -38,6 +39,14 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
     <li>
       <p>Luego iremos hasta la parte de abajo, marcaremos la opcion "Add a README file" y luego presionaremos el boton "Create Repository"</p>
       <img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/8b17f3d8c58036e6e6577cf855506cd0674fe58d/recursos/create.jpg">
+    </li>
+    <li>
+      <p>Cuando vayamos a nuestro perfil veremos algo asi: </p>
+      <img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/e2c94c9e72511f9505530c361d9844b7c035a6bb/recursos/default.jpg">
+    </li>
+    <li>
+      <h4 id="nota">Nota: </h4>
+      <p>Estare usando una cuenta secundaria para crear de cero el archivo.</p>
     </li>
   </ul>
 </div>
