@@ -20,11 +20,13 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
   <ul>
     <li>
       <p>Lo primero que debemos hacer es ir a a la ventana repositoiros</p>
-      <img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/ad9ab4dd03a2f6da688b06f400fb3be4dd32c09d/recursos/pesta%C3%B1aRepo.jpg">
+      <kbd>
+        <img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/ad9ab4dd03a2f6da688b06f400fb3be4dd32c09d/recursos/pesta%C3%B1aRepo.jpg">
+      </kbd>
     </li>
     <li>
       <p>Seguido a esto le daremos al boton de la derecha: New</p>
-      <img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/6d5ebc07a5af3c19f9a25762228d8f713cf61c74/recursos/new.jpg">
+      <kbd><img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/6d5ebc07a5af3c19f9a25762228d8f713cf61c74/recursos/new.jpg"></kbd>
     </li>
      <li>
       <p>Seguido a esto veremos una pagina titulada "Create a new repository", destro de esta es donde crearemos nuestro repositorio</p>
@@ -32,17 +34,17 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
     <li>
       <p>COn la mirada buscaremos el recuadro llamado "Repository name" aqui pondremos nuestro nombre de usuario, en mi caso: Bryan-Herrera-Dev.</p>
       <p>Si no sabes donde encontrar tu nombre de usuario en el recuadro de alado esta, solo copialo y pegalo.</p>
-      <img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/ea9a59d47b70d003bf245095286796e6855c2740/recursos/USER.jpg">
+      <kbd><img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/ea9a59d47b70d003bf245095286796e6855c2740/recursos/USER.jpg"></kbd>
       <p>Como vemos a mi me tira un error, pues ya tengo dicho repositorio.</p>
       <p>Para verificar que lo hicimos bien, debajo a estos recuadros tendremos un mensaje de github diciendo que hayamos un secreto. Si no muestra este mensaje comprueba que hayas puesto bien tu nombre de usuario.</p>
     </li>
     <li>
       <p>Luego iremos hasta la parte de abajo, marcaremos la opcion "Add a README file" y luego presionaremos el boton "Create Repository"</p>
-      <img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/8b17f3d8c58036e6e6577cf855506cd0674fe58d/recursos/create.jpg">
+      <kbd><img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/8b17f3d8c58036e6e6577cf855506cd0674fe58d/recursos/create.jpg"></kbd>
     </li>
     <li>
       <p>Cuando vayamos a nuestro perfil veremos algo asi: </p>
-      <img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/e2c94c9e72511f9505530c361d9844b7c035a6bb/recursos/default.jpg">
+      <kbd><img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Github-Hermoso/blob/e2c94c9e72511f9505530c361d9844b7c035a6bb/recursos/default.jpg"></kbd>
     </li>
     <li>
       <h4 id="nota">Nota: </h4>
