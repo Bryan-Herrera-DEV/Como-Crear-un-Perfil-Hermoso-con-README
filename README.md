@@ -69,9 +69,7 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
       <h2>Etiquetas y propiedades</h2>
       <ul>
         <li>
-          <h3> La etiqueta 
-
-          </h3>
+          <h3> La etiqueta </h3>
           <p></p>
         </li>
       </ul>
