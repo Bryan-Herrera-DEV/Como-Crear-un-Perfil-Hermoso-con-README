@@ -70,11 +70,7 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
       <ul>
         <li>
           <h3> La etiqueta 
-            
- ```shell
-  > cd appEmpleados
-  > npm install          
- ``` 
+
           </h3>
           <p></p>
         </li>
