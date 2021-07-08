@@ -73,8 +73,7 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
             
  ```shell
   > cd appEmpleados
-  > npm install
-            
+  > npm install          
  ``` 
           </h3>
           <p></p>
