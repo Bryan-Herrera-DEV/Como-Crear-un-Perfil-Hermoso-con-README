@@ -8,6 +8,9 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
 - [Introduccion](#Introduccion)
 - [Creando nuestro repositorio](#Creando-nuestro-repositorio)
   - [Nota](#nota)
+- [Conceptos Basicos](#conceptos)
+  - [Estructuras y conceptos basicos](#estructura-basica)
+    - [Etiquetas y propiedades](#etiquetas-y-propiedades)
 
 <div id="Introduccion">
   <h1>Introduccion</h1>
@@ -51,4 +54,33 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
       <p>Estare usando una cuenta secundaria para crear de cero el archivo.</p>
     </li>
   </ul>
+</div>
+<div id="conceptos">
+  <h1>Conceptos basicos</h1>
+  <p>Una vez creado el repositorio, iremos a nuestros a la ventana repositorios y  abriremos la repo con nustro nombre de usuario. Abriremos el repositorio y veremos algo asi: </p>
+  <kbd><img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Perfil-Hermoso-con-README/blob/aa63571f8016fbbe2035fcdb06a256597599c6ce/recursos/vistaPrev.jpg" width="450"></kbd>
+  <p>Abrirmos el archivo README.md, le daremos al boton "Edit this file"</p>
+  <kbd><img src="https://github.com/Bryan-Herrera-DEV/Como-Crear-un-Perfil-Hermoso-con-README/blob/ec8ef62ed65d227f1cdb60a674366e30fa993ead/recursos/editButton.jpg" width="450"></kbd>
+  <p>Cuando lo abramos borraremos todas las lineas que aparezcan y tendremos un archivo vacio.</p>
+  <div id="estructura-basica">
+    <h2>Estructuras y elementos basicos</h2>
+    <p>Antes de comenzar con los aspectos esteticos debemos tomar en cuenta la estructura que le daremos a nuestro archivo puesto que, si tienes los elementos dispersos por cualquier sitio daria exactamente igual.<p>
+    <div id="etiquetas-y-propiedades">
+      <h2>Etiquetas y propiedades</h2>
+      <ul>
+        <li>
+          <h3> La etiqueta 
+            
+ ```shell
+  > cd appEmpleados
+  > npm install
+            
+ ``` 
+          </h3>
+          <p></p>
+        </li>
+      </ul>
+    </div>
+    
+  </div>
 </div>
