@@ -16,7 +16,7 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
   <h1>Introduccion</h1>
   <p>Lo primero que debemos saber es que los perfiles de github se crean sobre un repositorio con nuestro nombre.</p>
   <p>Este repositorio contiene un archivo README.md el cual utiliza un lenguaje de marcado llamado MARKDOWN. Este permite crear salidas de texto estilizadas de una manera sencilla, aunque su limitante mas grande es sin duda la poca flexibilidad a la hora de agregar estilos.</p>
-  <p>Una de las ventajas que nos ofrece Github es que el lenguaje de markdown convive con partes de HTML, permitiendonos usar diferentes etiquetas para <b>Organizar</b> nuestro archivo README.</p>
+ 
 </div>
 <div id="Creando-nuestro-repositorio">
   <h1>Creando nuestro repositorio</h1>
