@@ -10,7 +10,7 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
   - [Nota](#nota)
 - [Conceptos Basicos](#conceptos)
   - [Estructuras y conceptos basicos](#estructura-basica)
-    - [Etiquetas y propiedades](#etiquetas-y-propiedades)
+    - [Propiedades Basicas](#propiedades)
 
 <div id="Introduccion">
   <h1>Introduccion</h1>
@@ -65,11 +65,11 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
   <div id="estructura-basica">
     <h2>Estructuras y elementos basicos</h2>
     <p>Antes de comenzar con los aspectos esteticos debemos tomar en cuenta la estructura que le daremos a nuestro archivo puesto que, si tienes los elementos dispersos por cualquier sitio daria exactamente igual.<p>
-    <div id="etiquetas-y-propiedades">
-      <h2>Etiquetas y propiedades</h2>
+    <div id="propiedades">
+      <h2>Propiedades Basicas</h2>
       <ul>
         <li>
-          <h3> La etiqueta </h3>
+          <h3> _ </h3>
           <p></p>
         </li>
       </ul>
