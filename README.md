@@ -12,6 +12,9 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
   - [Estructuras y conceptos basicos](#estructura-basica)
     - [Propiedades Basicas](#propiedades)
 
+- [Herramientas integradas en github]()
+  - [mermaid]()
+
 <div id="Introduccion">
   <h1>Introduccion</h1>
   <p>Lo primero que debemos saber es que los perfiles de github se crean sobre un repositorio con nuestro nombre.</p>
