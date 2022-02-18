@@ -12,7 +12,7 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
   - [Estructuras y conceptos basicos](#estructura-basica)
     - [Propiedades Basicas](#propiedades)
 
-- [Herramientas integradas en github]()
+- [Herramientas integradas en github](#Herramientas)
   - [mermaid](#mermaid)
 
 
