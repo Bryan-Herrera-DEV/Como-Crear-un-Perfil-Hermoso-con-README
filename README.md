@@ -13,7 +13,8 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
     - [Propiedades Basicas](#propiedades)
 
 - [Herramientas integradas en github]()
-  - [mermaid]()
+  - [mermaid](#mermaid)
+
 
 <div id="Introduccion">
   <h1>Introduccion</h1>
@@ -78,5 +79,12 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
       </ul>
     </div>
     
+  </div>
+</div>
+<div id="Herramientas">
+  <h1>Herramientas integradas en github</h1>
+  <p>Herramientas que github implementa en su markdown para crear elementos visuales</p>
+  <div id="mermaid"> 
+  <h2>Mermaid</h2>
   </div>
 </div>
