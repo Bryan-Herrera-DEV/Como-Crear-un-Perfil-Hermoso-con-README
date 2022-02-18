@@ -91,5 +91,7 @@ journey
   title My estudio para examenes
   section Se anuncia el examen
     Yo empiezo estudiando: 1: Yo
+    Hago notas sobre esto: 2: Yo
+    Pido ayuda a mi amigo: 3: Mi Amigo
 ```
   
