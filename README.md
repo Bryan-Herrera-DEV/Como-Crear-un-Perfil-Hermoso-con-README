@@ -81,10 +81,15 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
     
   </div>
 </div>
-<div id="Herramientas">
-  <h1>Herramientas integradas en github</h1>
-  <p>Herramientas que github implementa en su markdown para crear elementos visuales</p>
-  <div id="mermaid"> 
-  <h2>Mermaid</h2>
-  </div>
-</div>
+  
+# Herramientas integradas en github
+Herramientas que github implementa en su markdown para crear elementos visuales
+
+## Mermaid
+```mermaid
+journey
+  title My estudio para examenes
+  section Se anuncia el examen
+    Yo empiezo estudiando: 1: Yo
+```
+  
