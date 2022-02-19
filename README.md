@@ -85,6 +85,7 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
 Herramientas que github implementa en su markdown para crear elementos visuales
 
 ## Mermaid
+
 ```mermaid
 journey
   title My estudio para examenes
