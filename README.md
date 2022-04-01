@@ -95,7 +95,7 @@ journey
     Pido ayuda a mi amigo: 3: Mi Amigo
     Nosotros estudiamos juntos: 5: Mi Amigo
   
-  section Dia del EXAMEN:
+  section Dia del EXAMEN
     No se que mas poner: 2: Yo
     
 ```
