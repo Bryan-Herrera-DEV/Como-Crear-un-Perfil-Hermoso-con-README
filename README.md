@@ -11,6 +11,7 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
 - [Conceptos Basicos](#conceptos)
   - [Estructuras y conceptos basicos](#estructura-basica)
     - [Propiedades Basicas](#propiedades)
+      - [Soporte Html](#soporte-html)
 - [Herramientas integradas en github](#Herramientas)
   - [mermaid](#mermaid)
 
@@ -72,8 +73,8 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
       <h2>Propiedades Basicas</h2>
       <ul>
         <li>
-          <h3> _ </h3>
-          <p></p>
+          <h3 id="soporte-html">Soporte para HTML</h3>
+          <p>Con markdown tenemos soporte para HTML y escribir nuestra estructura con este, pero, no todas las propiedades son permitidas, un ejemplo: <b>input, select, etc<b> </p>
         </li>
       </ul>
     </div>
