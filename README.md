@@ -11,6 +11,7 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
 - [Conceptos Basicos](#conceptos)
   - [Estructuras y conceptos basicos](#estructura-basica)
     - [Propiedades Basicas](#propiedades)
+      - [Titulos](#titulos)
       - [Soporte Html](#soporte-html)
       - [Soporte Para imagenes](#soporte-imagenes)
 - [Herramientas integradas en github](#Herramientas)
@@ -75,10 +76,34 @@ En este repositorio explicare las diferentes tecnicas que existen para estilizar
       <h2>Propiedades Basicas</h2>
       <ul>
         <li>
-          <h3 id="soporte-html">Soporte para HTML</h3>
-          <p>Con markdown tenemos soporte para HTML y escribir nuestra estructura con este, pero, no todas las propiedades son permitidas, un ejemplo: <b>input, select, etc</b></p>
-        </li>
-        <li>
+          <h3 id="titulos">Titulos</h3>
+          <p>En Markdown podemos definir varios tipos de título, si conoces un poco de HTML sabrás que tenemos 5 jerarquías para esto y aquí podemos hacer referencia a esa jerarquía de dos maneras: por medio de etiquetas y por numerales <code>#</code></p>
+          <p>Por medio de etiquetas:</p>
+
+```html
+  <h1>Titulo</h1>
+  <h2>Titulo</h2>
+  <h3>Titulo</h3>
+  <h4>Titulo</h4>
+  <h5>Titulo</h5>
+```
+  <p>Por medio de numerales:</p>
+
+```markdown
+  # Titulo
+  ## Titulo
+  ### Titulo
+  #### Titulo
+  ##### Titulo
+  ###### Titulo
+```
+</li>
+
+<li>
+  <h3 id="soporte-html">Soporte para HTML</h3>
+  <p>Con markdown tenemos soporte para HTML y escribir nuestra estructura con este, pero, no todas las propiedason permitidas, un ejemplo: <b>input, select, etc</b></p>
+</li>
+<li>
           <h3 id="soporte-imagenes">Soporte para imagenes</h3>
           <p>En GitHub Markdown tenemos soporte para insertar imágenes y darles tamaños específicos. Para esto hay dos maneras principales, por medio de Markdown o insertarlas como una etiqueta HTML:</p>
           <p>Markdown:</p>
